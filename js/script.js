@@ -1,6 +1,6 @@
 // ---- External image URLs for each petal ----
 const photos = [
- https://drive.google.com/file/d/1ypEKItvpRCRjq1X0lTAMQPswlCGGCD9g/view?usp=drive_link, // petal 1
+" https://drive.google.com/file/d/1ypEKItvpRCRjq1X0lTAMQPswlCGGCD9g/view?usp=drive_link", // petal 1
   "https://images.unsplash.com/photo-1553583384-7b6b61cb4c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400", // petal 2
   "https://images.unsplash.com/photo-1596160461173-d8a6a4a7c0b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400", // petal 3
   "https://images.unsplash.com/photo-1591089793848-2f1b7f0b2f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400", // petal 4
